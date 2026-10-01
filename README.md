@@ -1,1 +1,1 @@
-Ce repo est destiné à mettre quelques exercices de base en python pour m'améliorer sur les fondamentaux. 
+Ce repo servira a mettre tous les problèmes que va me donner ChatGPT/Gemini, pour une raison simple: ceux de LeetCode sont bien trop durs pour moi pour l'instant. Je me fais la main sur des problèmes plus facile et en français.
